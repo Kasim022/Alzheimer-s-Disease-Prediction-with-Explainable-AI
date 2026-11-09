@@ -81,4 +81,4 @@ I used an AI assistant (Claude) to review this coursework before publishing it. 
 
 ## Author
 
-Mohammed Kasim Abbas · [GitHub](https://github.com/Kasim022) · Kaggle · LinkedIn
+Mohammed Kasim Abbas · [GitHub](https://github.com/Kasim022) · [Kaggle](https://www.kaggle.com/kasima022) · [LinkedIn](https://www.linkedin.com/in/mkasimabbas/)
