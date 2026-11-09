@@ -4,7 +4,7 @@ Predicting an Alzheimer's diagnosis from health, lifestyle and clinical assessme
 
 Built for the *Applied Machine Learning and Big Data Strategy* module of my MSc in Applied Artificial Intelligence and Data Analytics (University of Bradford).
 
-> ⚠️ **This is an educational project, not a diagnostic tool.** It uses a synthetic dataset. Any real-world use would need clinical validation and careful consideration of ethics, bias and patient safety.
+> **This is an educational project, not a diagnostic tool.** It uses a synthetic dataset. Any real-world use would need clinical validation and careful consideration of ethics, bias and patient safety.
 
 ## The question
 
